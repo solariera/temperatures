@@ -1,2 +1,11 @@
-declare const template: () => boolean;
-export { template };
+export { celsiusToFahrenheit } from './celsius-fahrenheit';
+export { celsiusToKelvin } from './celsius-kelvin';
+export { fahrenheitToCelsius } from './fahrenheit-celsius';
+export { fahrenheitToKelvin } from './fahrenheit-kelvin';
+export { kelvinToCelsius } from './kelvin-celsius';
+export { kelvinToDelisle } from './kelvin-delisle';
+export { kelvinToFahrenheit } from './kelvin-fahrenheit';
+export { kelvinToNewton } from './kelvin-newton';
+export { kelvinToRankine } from './kelvin-rankine';
+export { kelvinToReaumur } from './kelvin-reaumur';
+export { kelvinToRoemer } from './kelvin-roemer';
