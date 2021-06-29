@@ -1,6 +1,6 @@
 /**
  * convertKelvinToFahrenheit
- * ケルビンを華氏に変換する。
+ * ケルビンを華氏に変換する
  * @param {number} kelvin 変換するケルビン
  * @returns {number} 換算された華氏
  */

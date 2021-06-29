@@ -1,7 +1,6 @@
 /**
  * kelvinToRoemer
- * ケルビンをレーマー度に変換する。
- * ([K] - 273.15) * 21⁄40 + 7.5
+ * ケルビンをレーマー度に変換する
  * @param {number} kelvin 変換するケルビン
  * @returns {number} 換算されたレーマー度
  */

@@ -1,7 +1,6 @@
 /**
  * kelvinToNewton
- * ケルビンをニュートン度に変換する。
- * ([K] - 273.15) * 33⁄100
+ * ケルビンをニュートン度に変換する
  * @param {number} kelvin 変換するケルビン
  * @returns {number} 換算されたニュートン度
  */
