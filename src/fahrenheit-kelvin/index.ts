@@ -12,7 +12,7 @@ const offset: number = 32;
 
 /**
  * convertFahrenheitToKelvin
- * 華氏をケルビンに変換する。
+ * 華氏をケルビンに変換する
  * @param {number} fahrenheit 変換する華氏
  * @returns {number} 換算されたケルビン
  */

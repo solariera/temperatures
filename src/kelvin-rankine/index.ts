@@ -5,7 +5,7 @@ const coefficient: number = 9 / 5;
 
 /**
  * kelvinToRankine
- * ケルビンをランキン度に変換する。
+ * ケルビンをランキン度に変換する
  * @param {number} kelvin 変換するケルビン
  * @returns {number} 換算されたランキン度
  */

@@ -26,9 +26,7 @@
   "files": [
     "lib"
   ],
-  "dependencies": {
-    "@solariera/easy-jest": "github:solariera/easy-jest"
-  },
+  "dependencies": {},
   "scripts": {
     "test": "jest",
     "test:cov": "jest ---watch --coverage",
@@ -41,6 +39,7 @@
   },
   "devDependencies": {
     "@jest/types": "^27.0.2",
+    "@solariera/easy-jest": "^0.0.7",
     "@types/eslint": "^7.2.13",
     "@types/jest": "^26.0.23",
     "@types/prettier": "^2.3.0",
