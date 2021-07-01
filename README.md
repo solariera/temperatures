@@ -1,17 +1,21 @@
 # Temperature convert functions
 
+[![npm](https://img.shields.io/npm/v/@solariera/temperatures)](https://www.npmjs.com/package/@solariera/temperatures)
+[![npm](https://img.shields.io/npm/dw/@solariera/temperatures)](https://www.npmjs.com/package/@solariera/temperatures)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@solariera/temperatures)](https://bundlephobia.com/result?p=@solariera/temperatures)
+
 ## 1. Usage
 
 ### 1-1. Installation
 
 ```console
 # npm
-npm install --save-dev @solariera/temperatures
+npm install @solariera/temperatures
 ```
 
 ```console
 # yarn
-yarn add --dev @solariera/temperatures
+yarn add @solariera/temperatures
 ```
 
 ### 1-2. Basic Usage
@@ -29,11 +33,11 @@ console.log(celsius); // -273.15
 
 | input \ output  | Kelvin | Celsius | Fahrenheit | Rankine | Delisle | Newton | Reaumur | Roemer |
 | --------------- | :----: | :-----: | :--------: | :-----: | :-----: | :----: | :-----: | :----: |
-| Kelvin [K]      |   -    |   ✔️    |     ✔️     |   ✔️    |   ✔️    |   ✔️   |   ✔️    |   ✔️   |
-| Celsius [°C]    |   ✔️   |    -    |     ✔️     |         |         |        |         |        |
-| Fahrenheit [°F] |   ✔️   |   ✔️    |     -      |         |         |        |         |        |
-| Rankine [°R]    |   ✔️   |         |            |    -    |         |        |         |        |
-| Delisle [°De]   |   ✔️   |         |            |         |    -    |        |         |        |
-| Newton [°N]     |   ✔️   |         |            |         |         |   -    |         |        |
-| Reaumur [°Ré]   |   ✔️   |         |            |         |         |        |    -    |        |
-| Roemer [°Rø]    |   ✔️   |         |            |         |         |        |         |   -    |
+| Kelvin [K]      |   -    |   ⭕️   |    ⭕️     |   ⭕️   |   ⭕️   |  ⭕️   |   ⭕️   |  ⭕️   |
+| Celsius [°C]    |  ⭕️   |    -    |    ⭕️     |         |         |        |         |        |
+| Fahrenheit [°F] |  ⭕️   |   ⭕️   |     -      |         |         |        |         |        |
+| Rankine [°R]    |  ⭕️   |         |            |    -    |         |        |         |        |
+| Delisle [°De]   |  ⭕️   |         |            |         |    -    |        |         |        |
+| Newton [°N]     |  ⭕️   |         |            |         |         |   -    |         |        |
+| Reaumur [°Ré]   |  ⭕️   |         |            |         |         |        |    -    |        |
+| Roemer [°Rø]    |  ⭕️   |         |            |         |         |        |         |   -    |
